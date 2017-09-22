@@ -1,6 +1,6 @@
 <?php
 
- sessionstart();
+ session_start();
 
 $_SESSION['submit'] = $_POST['submit'];
 
