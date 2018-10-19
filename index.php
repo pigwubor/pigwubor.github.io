@@ -334,8 +334,8 @@ telecoms and other government parastatals.</h4></p>
     <div class="col-sm-4">
       <div class="thumbnail">
         <img src="/image/appraisal.png" alt="Paris" width="400" height="300">
-        <p><strong>Appraisal Portal</strong></p>
-        <p>Yes, I built Automated Perfromance Appraisal Portal</p>
+        <p><strong>E-Commerce Portal</strong></p>
+        <p>Yes, I built E-Commerce Shopping Portal</p>
       </div>
     </div>
     <div class="col-sm-4">
