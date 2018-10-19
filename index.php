@@ -333,7 +333,7 @@ telecoms and other government parastatals.</h4></p>
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="/image/appraisal.png" alt="Paris" width="400" height="300">
+        <img src="/image/appraisal.png" alt="Paris" width="400" height="600">
         <p><strong>E-Commerce Portal</strong></p>
         <p>Yes, I built E-Commerce Shopping Portal</p>
       </div>
