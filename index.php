@@ -403,8 +403,8 @@ telecoms and other government parastatals.</h4></p>
 </div>
     <div class="col-sm-4">
       <p>Contact Me and I'll get back to you within 24 hours.</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> Lagos, Nigeria</p>
-      <p><span class="glyphicon glyphicon-phone"></span> +234 803 239 1458</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> New Brunswick, Canada</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +1(506)6501246</p>
       <p><span class="glyphicon glyphicon-envelope"></span> p.igwubor@gmail.com</p>
 </div>
 <form name="contactForm" id="contact_form" method="post"  action="alert.php" class="body_gutters" accept-charset="utf-8">
